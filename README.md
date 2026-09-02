@@ -53,7 +53,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake_gifl(https://github.com/farazbashirr/farazbashirr/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/farazbashirr/farazbashirr/output/snake-purple.svg)
 
 <p align="center">
   <img
