@@ -14,7 +14,7 @@
 - 🛠️ Currently working on several projects — including an **Inventory Management System**, a **Hospital Management module in Odoo**, and a **Booking System built on Odoo**
 - 🐘 Building real-time, production-style solutions in **Odoo 19**, alongside strong fundamentals in **.NET / ASP.NET MVC**
 - 🧠 I think in systems and flow — analyzing business logic deeply before writing a single line of code
-- 📫 Reach me on: **[Your Email]** | **[Your LinkedIn]**
+- 📫 Reach me on: **farazbashir742@gmail.com** | **https://www.linkedin.com/in/muhammad-faraz-bashir786**
 
 ---
 
@@ -27,16 +27,10 @@
 **Languages & Frameworks:** C# · ASP.NET MVC · .NET Core · Python  
 **Databases:** SQL Server · PostgreSQL  
 **Tools & Platforms:** Git & GitHub · Visual Studio · PyCharm · Odoo 19 · VBA (Excel Automation)  
-**Currently Exploring:** Flutter/Dart · GoHighLevel (GHL) Automation
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farazbashirr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazbashirr&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazbashirr&theme=tokyonight" alt="GitHub Streak"/>
