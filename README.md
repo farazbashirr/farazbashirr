@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faraz Bashir</h1>
-<h3 align="center">Software Engineering | .NET Developer | Odoo Developer</h3>
+<h3 align="center">Software Engineer | .NET Developer | Odoo Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+Software+Engineering+Student;.NET+%2F+ASP.NET+MVC+Developer;Learning+Odoo+19+Development;Building+Real+Commercial+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;.NET+%2F+ASP.NET+MVC+Developer;Odoo+Developer;Building+Real-World+Business+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,10 +11,9 @@
 
 - 🎓 Software Engineer, currently based in Islamabad, Pakistan
 - 💼 Completed multiple **.NET internships**, now working on commercial-grade software projects
-- 🛠️ Actively building/polishing an **Inventory Management System** for commercial sale — security hardening, stock ledger, audit trails, dashboards
-- 🐘 Learning **Odoo 19 development**, currently building a custom Hospital Management module (`om_hospital`)
-- 🤖 I use AI coding agents (like Claude & OpenCode) as force multipliers — I drive the architecture and logic, AI helps me execute faster
-- 🧠 I think in systems and flow — even when the syntax is new, I can usually reason through the logic first
+- 🛠️ Currently working on several projects — including an **Inventory Management System**, a **Hospital Management module in Odoo**, and a **Booking System built on Odoo**
+- 🐘 Building real-time, production-style solutions in **Odoo 19**, alongside strong fundamentals in **.NET / ASP.NET MVC**
+- 🧠 I think in systems and flow — analyzing business logic deeply before writing a single line of code
 - 📫 Reach me on: **[Your Email]** | **[Your LinkedIn]**
 
 ---
@@ -53,10 +52,9 @@
 
 ---
 
-### 🏆 Featured Project
+### 🏆 Featured Work
 
-**Inventory Management System (ASP.NET MVC)**  
-A commercial-grade inventory system with full stock tracking, transaction-safe ledger auditing, reversal logic, negative-stock prevention, and role-based access — built and hardened phase by phase from a legacy 40% complete codebase.
+Actively building and polishing commercial-grade systems — from secure, audit-trailed inventory management platforms to Odoo-based business modules like hospital management and booking systems. Focused on writing clean, maintainable, production-ready code.
 
 ---
 
