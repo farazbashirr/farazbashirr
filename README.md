@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faraz Bashir</h1>
-<h3 align="center">Software Engineering Student | .NET Developer | Odoo Enthusiast</h3>
+<h3 align="center">Software Engineering | .NET Developer | Odoo Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+Software+Engineering+Student;.NET+%2F+ASP.NET+MVC+Developer;Learning+Odoo+19+Development;Building+Real+Commercial+Projects" alt="Typing SVG" />
@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Software Engineering student, currently based in Multan, Pakistan (heading back to Islamabad to finish my degree)
-- 💼 Completed multiple **.NET internships**, now working on commercial-grade software
-- 🛠️ Actively building/polishing an **ASP.NET MVC Inventory Management System** for commercial sale — security hardening, stock ledger, audit trails, dashboards
+- 🎓 Software Engineer, currently based in Islamabad, Pakistan
+- 💼 Completed multiple **.NET internships**, now working on commercial-grade software projects
+- 🛠️ Actively building/polishing an **Inventory Management System** for commercial sale — security hardening, stock ledger, audit trails, dashboards
 - 🐘 Learning **Odoo 19 development**, currently building a custom Hospital Management module (`om_hospital`)
 - 🤖 I use AI coding agents (like Claude & OpenCode) as force multipliers — I drive the architecture and logic, AI helps me execute faster
 - 🧠 I think in systems and flow — even when the syntax is new, I can usually reason through the logic first
