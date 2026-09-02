@@ -53,6 +53,8 @@
 
 ### 🐍 Contribution Snake
 
+![snake_gifl(https://github.com/farazbashirr/farazbashirr/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/farazbashirr/farazbashirr/main/assets/faraz-contribution.svg"
@@ -60,9 +62,7 @@
     width="900"
   />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farazbashirr/farazbashirr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
 
 ---
 
