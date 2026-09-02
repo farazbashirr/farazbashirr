@@ -1,57 +1,131 @@
 <h1 align="center">Hi 👋, I'm Faraz Bashir</h1>
-<h3 align="center">Software Engineer | .NET Developer | Odoo Developer</h3>
+
+<h3 align="center">
+  Software Engineer · .NET Developer · Odoo Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;.NET+%2F+ASP.NET+MVC+Developer;Odoo+Developer;Building+Real-World+Business+Solutions" alt="Typing SVG" />
+  <a href="https://github.com/farazbashirr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-faraz-bashir786">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:farazbashir742@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;.NET+%2F+ASP.NET+MVC+Developer;Odoo+Developer;Building+Real-World+Business+Solutions"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineer, currently based in Islamabad, Pakistan
-- 💼 Completed multiple **.NET internships**, now working on commercial-grade software projects
-- 🛠️ Currently working on several projects — including an **Inventory Management System**, a **Hospital Management module in Odoo**, and a **Booking System built on Odoo**
-- 🐘 Building real-time, production-style solutions in **Odoo 19**, alongside strong fundamentals in **.NET / ASP.NET MVC**
-- 🧠 I think in systems and flow — analyzing business logic deeply before writing a single line of code
-- 📫 Reach me on: **farazbashir742@gmail.com** | **https://www.linkedin.com/in/muhammad-faraz-bashir786**
+I'm a Software Engineer focused on building **business-driven, production-ready software**.
+
+My work sits at the intersection of **.NET development, Odoo customization, databases, automation, and business process design**.
+
+- 💻 Strong focus on **C#, .NET, ASP.NET MVC & Python**
+- 🧩 Developing custom business solutions with **Odoo 19**
+- 🏗️ Building inventory, hospital management & booking systems
+- 🗄️ Working with **SQL Server & PostgreSQL**
+- 🔍 Interested in clean architecture, business logic & maintainable systems
+- ⚙️ Experienced with automation and workflow-driven applications
+- 📍 Islamabad, Pakistan
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,python,git,github,vscode,pycharm,html,css,js" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css" />
 </p>
 
-**Languages & Frameworks:** C# · ASP.NET MVC · .NET Core · Python  
-**Databases:** SQL Server · PostgreSQL  
-**Tools & Platforms:** Git & GitHub · Visual Studio · PyCharm · Odoo 19 · VBA (Excel Automation)  
+### Frameworks & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+`ASP.NET MVC` · `.NET Core` · `Odoo 19`
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,pycharm" />
+</p>
+
+`SQL Server` · `PostgreSQL` · `Git` · `GitHub` · `VBA / Excel Automation`
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 What I'm Building
+
+| Project | Focus |
+|--------|-------|
+| 📦 Inventory Management System | Business workflows, stock & audit trails |
+| 🏥 Hospital Management | Odoo 19 customization & business modules |
+| 📅 Booking System | Odoo-based booking & workflow management |
+| ⚙️ .NET Applications | Backend systems & business logic |
+
+> I enjoy taking a business requirement, breaking it into systems and workflows, and turning it into maintainable software.
+
+---
+
+## 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazbashirr&theme=tokyonight" alt="GitHub Streak"/>
+  <img
+    src="https://raw.githubusercontent.com/farazbashirr/farazbashirr/main/assets/faraz-contribution.svg"
+    alt="Faraz engineering activity"
+    width="900"
+  />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farazbashirr/farazbashirr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=farazbashirr&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=farazbashirr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
-### 🏆 Featured Work
+## 🐍 Contribution Snake
 
-Actively building and polishing commercial-grade systems — from secure, audit-trailed inventory management platforms to Odoo-based business modules like hospital management and booking systems. Focused on writing clean, maintainable, production-ready code.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/farazbashirr/farazbashirr/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farazbashirr&label=Profile%20Views&color=2E9EF7&style=flat" alt="farazbashirr" />
-</p>
+## 🎯 Current Focus
+
+```text
+.NET Development       ███████████████████░   90%
+Odoo Development       ██████████████████░░   85%
+Backend Engineering     █████████████████░░░   80%
+Database Design         ████████████████░░░░   75%
+Business Automation     █████████████████░░░   80%
