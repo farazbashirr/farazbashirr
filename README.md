@@ -53,8 +53,6 @@
 
 ### 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/farazbashirr/farazbashirr/output/snake-purple.svg)
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/farazbashirr/farazbashirr/main/assets/faraz-contribution.svg"
